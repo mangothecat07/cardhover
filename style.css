@@ -115,3 +115,6 @@ section {
 .card-hover-container:hover .card-bg-characters {
   opacity: 1;
 }
+html, body {
+  overflow-x: hidden;
+}
